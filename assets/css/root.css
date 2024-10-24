@@ -21,11 +21,16 @@
     --fivth: #33300D;
     --null: #FFFFFF;
     --dark: #000000;
-    
+
 
 
     /* font-family */
 
     --poppins: "Poppins", sans-serif;
+
+
+}
+
+@media (max-width:992px) {
 
 }

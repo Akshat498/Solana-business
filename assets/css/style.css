@@ -1,4 +1,3 @@
-
 .w-50px {
     width: 50px;
 }
@@ -597,4 +596,7 @@
         font-size: var(--fs-2xl);
     }
 
+    .burger-pic {
+        display: none !important;
+    }
 }
